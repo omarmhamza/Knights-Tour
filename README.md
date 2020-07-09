@@ -28,6 +28,8 @@ foo@bar:/Knights-Tour$ pip install -r requirements.txt
 #Solves Knight's tour for 8 x 8 board placing the Knight at the first coordinates (0,0) and shows the result graphically 
 foo@bar:/Knights-Tour$ python solve_knights_tour.py 0 0 8 8 -sh 
 ```
+<a href="https://github.com/omarmhamza/Knights-Tour/blob/master/Knight%20Tour%20Solutions/"><img src="https://github.com/omarmhamza/Knights-Tour/blob/master/Knight%20Tour%20Solutions/8x8_figure_output_example.png" width = 40% title="Knight's Tour Solution 5 x 5" alt="Knight's Tour Solution 5 x 5"></a>
+
 
 ## Arguments 
 
