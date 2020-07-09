@@ -71,7 +71,7 @@ optional arguments:
 ### Saving and Showing Solution 
 
 ```console
-# Knight @ 0,0 and Board of size 5 x 5
+#Setting Knight at (0,0) and Setting board Board of size to 5x5
 foo@bar:/Knights-Tour$ python solve_knights_tour.py  0 0 5 5 -s -sh 
 
 ██╗░░██╗███╗░░██╗██╗░██████╗░██╗░░██╗████████╗  ████████╗░█████╗░██╗░░░██╗██████╗░
@@ -139,7 +139,6 @@ foo@bar:/Knights-Tour$ python solve_knights_tour.py 0 0 8 8 -m -s -d /Desktop/So
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
