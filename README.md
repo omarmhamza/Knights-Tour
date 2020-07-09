@@ -106,14 +106,6 @@ foo@bar:/Knights-Tour$ python solve_knights_tour.py  0 0 8 8 -s -d /Desktop/User
 ```console
 #Board size is 8 x 8 
 foo@bar:/Knights-Tour$ python solve_knights_tour.py 0 0 8 8 -m 
-```
-
-
-## Search for all solutions and save results 
-
-
-```console
-foo@bar:/Knights-Tour$ python solve_knights_tour.py 0 0 8 8 -m -s -d /Desktop/Solutions 
 
 Board Size:  8 x 8
 Running....
@@ -131,6 +123,15 @@ Time took:  77.24 second(s)
  [52 47 56 45 54  5 22 13]]
 Setting knight at  (0, 1)
 ....
+
+```
+
+
+## Search for all solutions and save results 
+
+
+```console
+foo@bar:/Knights-Tour$ python solve_knights_tour.py 0 0 8 8 -m -s -d /Desktop/Solutions 
 ```
 
 # Contributing
