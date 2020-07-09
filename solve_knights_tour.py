@@ -33,6 +33,8 @@ args = parser.parse_args()
 board = Board(args.x_size[0], args.y_size[0])
 board.SAVE = args.save
 board.GRAPHICS = args.show
+if not args.directory:
+    args.directory = ""
 save_to = args.directory.strip('"')
 board.SAVE_SOLUTION_DICT = save_to
 

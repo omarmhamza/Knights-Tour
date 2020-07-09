@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/env" />
       <excludeFolder url="file://$MODULE_DIR$/search_algorithms/env" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6 (Knightproject)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (Knights-Tour)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
