@@ -1,11 +1,13 @@
 # Knights-Tour
+A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once. 
+
 There are mainly 4 ways of solving the knight's tour problem:
  - Brute force algorithm 
  - Divide and conquer 
  - Warnsdorff's rule
  - Using Neural Networks 
  
- The code in this repo solves the Knight's tour problem using backtracking/brute forcing with a graphical representation of the result as shown below.
+ The code in this repo solves the Knight's tour problem using backtracking/brute forcing then shows the result as a graphical representation as shown below.
  
 
 <a href="https://github.com/omarmhamza/Knights-Tour/blob/master/Knight%20Tour%20Solutions/"><img src="https://github.com/omarmhamza/Knights-Tour/blob/master/Knight%20Tour%20Solutions/plot_8x8.png" width = 40% title="Knight's Tour Solution 5 x 5" alt="Knight's Tour Solution 5 x 5"></a>
